@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Somatic Gene Panel Pipeline '
 copyright = '2024, Sailendra'
 author = 'Pradhananga Sailendra'
 
